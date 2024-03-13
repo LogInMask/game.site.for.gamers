@@ -1,0 +1,31 @@
+body {
+    background: white;
+}
+
+.center_text {
+    text-align: center;
+}
+.upper_bg {
+  height: 4.5vh;
+  width: 100vw;
+  background-color: #303030;
+}
+.container {
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.acontainer {
+    margin-left: 550px;
+    margin-right: 90vw;
+    margin-top: -65vh;
+}
+.bcontainer {
+    margin-left: 1050px;
+    margin-right: 50px;
+    margin-top: -65vh;
+}
+.dcontainer {
+    margin-left: 50px;
+    margin-right: 630px;
+    margin-top: -15vh;
+}

@@ -1,0 +1,17 @@
+body {
+    background: white;
+}
+
+.center_text {
+    text-align: center;
+}
+
+#dt {
+    text-align: center;
+    font-family: "Arial", Times, serif;
+}
+
+#ut {
+    text-align: center;
+    font-family: "Arial", Times, serif;
+}

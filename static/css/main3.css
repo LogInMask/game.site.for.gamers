@@ -1,0 +1,14 @@
+.center_text {
+    text-align: center;
+}
+
+.upper_bg {
+  height: 4.5vh;
+  width: 100vw;
+  background-color: #303030;
+}
+
+.vcontainer {
+    margin-left: 50px;
+    margin-right: 50px;
+}
